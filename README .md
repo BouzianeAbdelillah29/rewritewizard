@@ -19,17 +19,6 @@ RewriteWizard helps users rephrase and improve written content. It applies natur
 - NLTK, Gensim
 - scikit-learn
 
-## Usage
-
-1. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Launch the application:
-   ```bash
-   python main.py
-   ```
-   *(replace `main.py` with the project's entry-point file)*
 
 ## Project background
 
