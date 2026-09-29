@@ -13,12 +13,6 @@ RewriteWizard helps users rephrase and improve written content. It applies natur
 - **Context-aware rewriting** — analyzes surrounding context so rewrites stay natural and fluent, not just word-by-word substitution
 - **Summarization** — condenses longer texts into concise summaries
 
-## Tech stack
-
-- Python
-- NLTK, Gensim
-- scikit-learn
-
 
 ## Project background
 
